@@ -1,0 +1,1 @@
+/home/scossar/.config/omarchy/current/theme/neovim.lua
