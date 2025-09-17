@@ -53,4 +53,5 @@ require("lazy").setup({
 })
 
 -- Setup python virtual env for neovim
+-- vim.env.VIRTUAL_ENV = nil
 vim.g.python3_host_prog = vim.fn.expand("~/.local/share/nvim/venv/bin/python")
